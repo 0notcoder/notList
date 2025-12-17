@@ -1,5 +1,5 @@
 #pragma once
-#include <memory>
+#include <stdlib.h>
 #include <stdio.h>
 
 typedef unsigned long long notSize_t;
