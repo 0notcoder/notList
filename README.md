@@ -1,2 +1,2 @@
-# Я не знаю зачем но да
-это пиздец
+# List without use of stl
+C++ list without stl
